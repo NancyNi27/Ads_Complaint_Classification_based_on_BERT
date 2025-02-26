@@ -1,0 +1,15 @@
+﻿所属文件夹,PDF文件名称,PDF文件链接,产生的错误信息
+./data1/,"Complaint 15_016 We Love Rongoa, Digital Marketing.pdf",https://cdn.asa.co.nz/backend/documents/0000/00/00/15016.pdf,"请求出错:
+响应码:403
+url:https://cdn.asa.co.nz/backend/documents/0000/00/00/15016.pdf"
+./data2/,"Complaint 15_159 Carealert, Radio.pdf",https://cdn.asa.co.nz/backend/documents/2015/01/06/15159.pdf,"请求出错:
+响应码:403
+url:https://cdn.asa.co.nz/backend/documents/2015/01/06/15159.pdf"
+./data3/,"Complaint 15/374 Dick Smith Electronics, Brochure",https://cdn.asa.co.nz/backend/documents/2015/11/11/,'NoneType' object has no attribute 'split'
+./data3/,"Complaint 15/380 Foodstuffs NZ, Pamphlet and Voucher",http://www.asa.co.nz/backend/documents/2015/02/10/,'NoneType' object has no attribute 'split'
+./data10/,"Complaint 17/410 Wilson Parking NZL Limited, Out of Home",https://cdn.asa.co.nz/backend/documents/2017/12/19/,'NoneType' object has no attribute 'split'
+./data10/,"Complaint 17_423 The Church of Jesus Christ of Latter-Day Saints, Television.pdf",https://cdn.asa.co.nz/backend/documents/2017/12/06/17423.pdf,"请求出错:
+响应码:403
+url:https://cdn.asa.co.nz/backend/documents/2017/12/06/17423.pdf"
+./data10/,Complaint 17/424 NZME: The New Zealand Herald and Newstalk ZB,https://cdn.asa.co.nz/backend/documents/2017/12/21/,'NoneType' object has no attribute 'split'
+./data12/,"Complaint 18/280 Metlink, Print",https://cdn.asa.co.nz/backend/documents/2018/08/28/,'NoneType' object has no attribute 'split'
